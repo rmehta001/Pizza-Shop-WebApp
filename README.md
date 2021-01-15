@@ -39,3 +39,7 @@ PUT /pizza2_server/api/orders/{id}     updates an order (so user can acknowledge
 PIZZA2_JSCLIENT
 
 I rewrote the client using javascript.
+
+Following is the link:
+
+http://pe07.cs.umb.edu/cs637/raj2421/pizza2_jsclient/
