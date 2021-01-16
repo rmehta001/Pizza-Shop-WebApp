@@ -1,6 +1,6 @@
 # Pizza-Shop-WebApp
 This is an MVC web app in which I used php on the server side and css,html on the client side.
-I have used xampp cross platform for php and mySql.
+I have used XAMPP cross platform for Apache web server and MySQL database.
 
 PIZZA1
 
